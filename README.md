@@ -20,5 +20,5 @@ I love diving into data, uncovering insights, and sharing stories that matter. W
 ## **Let’s Connect!**  
 - 💻 **GitHub**: [Soroush's GitHub Profile](#)  
 - 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/soroush-saki?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BM8eYoA65Ra6qTFZwjvHjaQ%3D%3D)  
-- 📧 **Email**: [your_email@example.com](mailto:mr.soroush.saki@gmail.com)  
+- 📧 **Email**: [mr.soroush.saki@gmail.com](mailto:mr.soroush.saki@gmail.com)  
 
